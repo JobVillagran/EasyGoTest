@@ -3,7 +3,7 @@
 <br>
 
 <body>
-Thanks for checking out the Palindrome App made with JavaScript. If you have a suggestion<br>
+Thanks for checking out the EaseGo Website made with JavaScript. If you have a suggestion<br>
 that would make this better, please fork the repo and create a pull request<br>
 or simply open an issue with the tag "enhancement".<br>
 Don't forget to give the project a star!<br>
